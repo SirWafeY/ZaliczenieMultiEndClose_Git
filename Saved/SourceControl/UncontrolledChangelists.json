@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/nikod/Desktop/ZaliczenieMultiEndClose/Content/_Main/MainMenu/PC_MainMenu.uasset",
+				"C:/Users/nikod/Desktop/ZaliczenieMultiEndClose/Content/_Main/MainMenu/W_MainMenu.uasset",
+				"D:/ZaliczenieMultiEndClose/Content/_Main/Maps/Test.umap",
+				"D:/ZaliczenieMultiEndClose/Content/_Main/Blueprint/Charackter/Healer/BP_PlayerHealer.uasset",
+				"D:/ZaliczenieMulti new1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/ZaliczenieMulti new1/Content/_Main/Maps/MainMenu.umap",
+				"D:/ZaliczenieMulti new1/Content/_Main/Widget/W_HUD.uasset",
+				"D:/ZaliczenieMulti new1/Content/_Main/Maps/Test.umap",
+				"D:/ZaliczenieMulti new1/Content/_Main/Blueprint/Charackter/Swordsman/BP_PlayerSwordman.uasset",
+				"D:/ZaliczenieMulti new1/Content/_Main/Maps/Lobby.umap",
+				"D:/ZaliczenieMulti new1/Content/_Main/Icon/images.uasset",
+				"D:/ZaliczenieMulti new1/Content/_Main/Icon/fposter_small_wall_texture_square_product_600x600.uasset",
+				"D:/ZaliczenieMulti new1/Content/_Main/Widget/W_CharackterSelect.uasset",
+				"D:/ZaliczenieMulti new1/Content/_Main/MainMenu/MainMenu.uasset",
+				"D:/ZaliczenieMulti new1/Content/_Main/MainMenu/W_MainMenu.uasset"
+			]
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"SourceFiles": [
+		"D:\\ZaliczenieMultiEndClose\\Plugins\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
+		"D:\\ZaliczenieMultiEndClose\\Plugins\\AdvancedSessions\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs",
+		"D:\\ZaliczenieMultiEndClose\\Intermediate\\Source\\ZaliczenieMulti.Build.cs",
+		"D:\\ZaliczenieMultiEndClose\\Intermediate\\Source\\ZaliczenieMulti.Target.cs",
+		"D:\\ZaliczenieMultiEndClose\\Intermediate\\Source\\ZaliczenieMultiClient.Target.cs",
+		"D:\\ZaliczenieMultiEndClose\\Intermediate\\Source\\ZaliczenieMultiEditor.Target.cs",
+		"D:\\ZaliczenieMultiEndClose\\Intermediate\\Source\\ZaliczenieMultiServer.Target.cs"
+	],
+	"EngineVersion": "5.4.2"
+}
